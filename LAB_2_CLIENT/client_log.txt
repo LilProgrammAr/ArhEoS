@@ -1,0 +1,93 @@
+Wed Dec  5 11:54:52 2018
+: Sent -> Who
+Wed Dec  5 11:54:52 2018
+: Got -> Herashchenko Serhii, K-26, #6: files list
+Wed Dec  5 11:55:03 2018
+: Sent -> show_entries
+Wed Dec  5 11:55:03 2018
+: Got -> Entries in current server directory:
+client_log.txt
+Computer  Architecture.exe
+Computer  Architecture.ilk
+Computer  Architecture.pdb
+LAB_2_CLIENT.exe
+LAB_2_CLIENT.ilk
+LAB_2_CLIENT.pdb
+LAB_2_SERVER.exe
+LAB_2_SERVER.ilk
+LAB_2_SERVER.pdb
+New folder
+New folder - Copy
+New folder - Copy (2)
+New folder - Copy (3)
+New folder - Copy (4)
+New folder - Copy (5)
+New folder - Copy (6)
+New folder - Copy (7)
+server_log.txt
+
+Wed Dec  5 11:55:06 2018
+: Sent -> who
+Wed Dec  5 11:55:06 2018
+: Got -> Wrong command
+Wed Dec  5 11:55:07 2018
+: Sent -> Who
+Wed Dec  5 11:55:07 2018
+: Got -> Herashchenko Serhii, K-26, #6: files list
+Wed Dec  5 11:55:17 2018
+: Sent -> show_entries _
+Wed Dec  5 11:55:17 2018
+: Got -> Entries in current server directory:
+client_log.txt
+LAB_2_CLIENT.exe
+LAB_2_CLIENT.ilk
+LAB_2_CLIENT.pdb
+LAB_2_SERVER.exe
+LAB_2_SERVER.ilk
+LAB_2_SERVER.pdb
+server_log.txt
+
+Wed Dec  5 11:55:29 2018
+: Sent -> show_entries
+Wed Dec  5 11:55:29 2018
+: Got -> Entries in current server directory:
+client_log.txt
+Computer  Architecture.exe
+Computer  Architecture.ilk
+Computer  Architecture.pdb
+LAB_2_CLIENT.exe
+LAB_2_CLIENT.ilk
+LAB_2_CLIENT.pdb
+LAB_2_SERVER.exe
+LAB_2_SERVER.ilk
+LAB_2_SERVER.pdb
+New folder
+New folder - Copy
+New folder - Copy (2)
+New folder - Copy (3)
+New folder - Copy (4)
+New folder - Copy (5)
+New folder - Copy (6)
+New folder - Copy (7)
+server_log.txt
+
+Wed Dec  5 11:55:59 2018
+: Sent -> show_entries .txt
+Wed Dec  5 11:55:59 2018
+: Got -> Entries in current server directory:
+client_log.txt
+server_log.txt
+
+Wed Dec  5 11:56:06 2018
+: Sent -> show_entries _2_
+Wed Dec  5 11:56:06 2018
+: Got -> Entries in current server directory:
+LAB_2_CLIENT.exe
+LAB_2_CLIENT.ilk
+LAB_2_CLIENT.pdb
+LAB_2_SERVER.exe
+LAB_2_SERVER.ilk
+LAB_2_SERVER.pdb
+
+Wed Dec  5 11:56:11 2018
+: Sent -> exit
